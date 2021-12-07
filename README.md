@@ -1,16 +1,5 @@
 # weather_app
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2021-12-07 164559](https://user-images.githubusercontent.com/84076772/145031585-48514669-5432-45e9-bbf5-bdfb2e6c2b96.png)
+![Screenshot 2021-12-07 164526](https://user-images.githubusercontent.com/84076772/145031601-22660dd1-ca9c-475e-ad78-a78e6555bfa3.png)
